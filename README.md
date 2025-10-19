@@ -45,7 +45,7 @@ I hold a **Specialized Technician Diploma in Software Development**, and I enjoy
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Where to find me
 
-- 🐙 [GitHub: ISSAM-KACHACH](https://github.com/ISSAM-KACHACH)  
-- 💼 [LinkedIn: issam-kachach-80435338b](https://www.linkedin.com/in/issam-kachach-80435338b)
+[![GitHub](https://img.shields.io/badge/GitHub-ISSAM--KACHACH-181717?style=flat&logo=github)](https://github.com/ISSAM-KACHACH)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--kachach--80435338b-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-kachach-80435338b)
