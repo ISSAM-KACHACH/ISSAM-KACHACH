@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/ISSAM-KACHACH">
+    <img src="https://img.shields.io/badge/GitHub-ISSAM--KACHACH-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/issam-kachach-80435338b">
+    <img src="https://img.shields.io/badge/LinkedIn-issam--kachach--80435338b-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 # Hi there, I'm Issam 👋
 
 I'm a **Fullstack Developer** from **Meknès, Morocco** 🇲🇦.  
@@ -28,6 +37,16 @@ I hold a **Specialized Technician Diploma in Software Development**, and I enjoy
 
 ---
 
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on a **medical web app** to improve access to health information  
+- 🌱 I’m learning **React**, **Laravel**, **APIs**, and **GraphQL**  
+- 🤖 I’m building an **AI-powered platform** to teach programming interactively  
+- 🧠 I love simplifying complex programming concepts for beginners, especially in **Arabic**  
+- 🎯 My long-term goal is to become a **recognized developer and educator** in the tech community  
+
+---
+
 ## 🎯 Future Goals
 
 - 🏥 Build a **medical web application** to improve access to healthcare services  
@@ -48,4 +67,5 @@ I hold a **Specialized Technician Diploma in Software Development**, and I enjoy
 ## 🌐 Where to find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ISSAM--KACHACH-181717?style=flat&logo=github)](https://github.com/ISSAM-KACHACH)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--kachach--80435338b-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-kachach-80435338b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--kachach--80435338b-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-kachach-80435338b)  
+📧 **Email**: kachach.issam.devwfs@gmail.com
