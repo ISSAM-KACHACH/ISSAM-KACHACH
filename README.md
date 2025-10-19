@@ -28,9 +28,19 @@ I hold a **Specialized Technician Diploma in Software Development**, and I enjoy
 
 ---
 
-## 🌐 Where to find me
+## 🎯 Future Goals
 
-[![GitHub](https://img.shields.io/badge/GitHub-ISSAM--KACHACH-181717?style=flat&logo=github)](https://github.com/ISSAM-KACHACH)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--kachach--80435338b-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-kachach-80435338b)
+- 🏥 Build a **medical web application** to improve access to healthcare services  
+- 🤖 Create an **AI-powered platform** to teach programming interactively  
+- 🔁 Continue mastering **React** and **Laravel** through hands-on projects  
+- 🔌 Learn and implement **RESTful APIs** and **GraphQL** for scalable app development  
 
 ---
+
+## 🗣️ Languages I Speak
+
+```mermaid
+pie title Language Proficiency
+    "Arabic": 90
+    "English": 60
+    "French": 30
