@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ISSAM-KACHACH">
-    <img src="https://img.shields.io/badge/GitHub-ISSAM--KACHACH-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/issam-kachach-80435338b">
-    <img src="https://img.shields.io/badge/LinkedIn-issam--kachach--80435338b-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 # Hi there, I'm Issam 👋
 
 I'm a **Fullstack Developer** from **Meknès, Morocco** 🇲🇦.  
@@ -68,4 +59,4 @@ I hold a **Specialized Technician Diploma in Software Development**, and I enjoy
 
 [![GitHub](https://img.shields.io/badge/GitHub-ISSAM--KACHACH-181717?style=flat&logo=github)](https://github.com/ISSAM-KACHACH)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--kachach--80435338b-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-kachach-80435338b)  
-📧 **Email**: kachach.issam.devwfs@gmail.com
+[![Email](https://img.shields.io/badge/Email-kachach.issam.devwfs@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kachach.issam.devwfs@gmail.com)
