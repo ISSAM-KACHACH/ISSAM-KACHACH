@@ -39,8 +39,13 @@ I hold a **Specialized Technician Diploma in Software Development**, and I enjoy
 
 ## 🗣️ Languages I Speak
 
-```mermaid
-pie title Language Proficiency
-    "Arabic": 90
-    "English": 60
-    "French": 30
+- **Arabic**: 90%  
+- **English**: 60%  
+- **French**: 30%
+
+---
+
+## 🌐 Find Me Online
+
+- 🐙 [GitHub: ISSAM-KACHACH](https://github.com/ISSAM-KACHACH)  
+- 💼 [LinkedIn: issam-kachach-80435338b](https://www.linkedin.com/in/issam-kachach-80435338b)
