@@ -23,7 +23,7 @@ I hold a **Specialized Technician Diploma in Software Development**, and I enjoy
 
 | Project | Description |
 |---------|-------------|
-| [MyPortfolio](https://github.com/ISSAM-KACHACH/MyPortfolio.git) | Personal portfolio built with HTML, CSS and JavaScript |
+| [MyPortfolio](https://issam-kachach.github.io/MyPortfolio/) | Personal portfolio built with HTML, CSS and JavaScript |
 | [SecureLoginSystem](https://github.com/ISSAM-KACHACH/SecureLoginSystem) | Secure login system using PHP and SQL |
 
 ---
